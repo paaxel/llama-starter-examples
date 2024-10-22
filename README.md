@@ -1,4 +1,4 @@
-# 🦙 llama llama-starter-examples
+# 🦙 llama-starter-examples
 Welcome to the llama-starter-examples repository!  
 This open-source project, licensed under the GPL, provides a set of starter examples to help you get up and running with Llama 3.2, a state-of-the-art large language model.
 
