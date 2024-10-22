@@ -27,9 +27,11 @@ This project is licensed under the GNU General Public License v3.0 (GPLv3). See 
 ## Credits
 
 We acknowledge and appreciate the following third-party libraries and resources used in this project:
-- Quarkus
-- Docker
-- GraalVM
+- Pytorch
+- Llama
+- HuggingFace
+- Transformers
+- LangChain
 
 ## Contact
 For any questions, feedback, or inquiries, feel free to reach out to us:
