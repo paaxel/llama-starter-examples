@@ -1,0 +1,137 @@
+{
+    "questions": [
+  {
+    "title": "What is a Drakelion?",
+    "answer": "A Drakelion is a large, lion-like creature with dragon-like scales covering its body. It is known for its fearsome roar and powerful leaps."
+  },
+  {
+    "title": "Where do Drakelions live?",
+    "answer": "Drakelions typically inhabit mountainous regions, often nesting in caves near volcanoes or in rocky cliffs."
+  },
+  {
+    "title": "What do Drakelions eat?",
+    "answer": "Drakelions are carnivores, feeding primarily on large mammals such as mountain deer, wild boars, and sometimes even smaller dragons."
+  },
+  {
+    "title": "How large can a Drakelion grow?",
+    "answer": "Drakelions can grow up to 15 feet in length and stand about 8 feet tall at the shoulder, with their tails adding an extra 10 feet in length."
+  },
+  {
+    "title": "Do Drakelions have any magical abilities?",
+    "answer": "Yes, Drakelions can breathe short bursts of fire, and their scales are resistant to both fire and lightning magic."
+  },
+  {
+    "title": "What is a Frostwing?",
+    "answer": "A Frostwing is a large bird-like creature with icy-blue feathers and the ability to freeze its prey with a single screech."
+  },
+  {
+    "title": "How does a Frostwing hunt its prey?",
+    "answer": "Frostwings use their powerful wings to create blizzards and disorient their prey. Once close enough, they freeze their targets with a chilling scream."
+  },
+  {
+    "title": "What regions do Frostwings inhabit?",
+    "answer": "Frostwings are found in arctic regions and high, snow-covered mountain ranges, where their icy powers are strongest."
+  },
+  {
+    "title": "What is a Lumenstalker?",
+    "answer": "A Lumenstalker is a nocturnal predator with glowing eyes and fur. It can manipulate light to camouflage itself in darkness."
+  },
+  {
+    "title": "How does a Lumenstalker blend into its environment?",
+    "answer": "Lumenstalkers can bend light around their bodies, making them nearly invisible in shadowy areas. Their glowing eyes, however, are a telltale sign of their presence."
+  },
+  {
+    "title": "Are Lumenstalkers dangerous to humans?",
+    "answer": "Yes, Lumenstalkers are highly dangerous to humans, especially at night when they are most active. They are swift hunters and can strike without warning."
+  },
+  {
+    "title": "What is a Thundertail?",
+    "answer": "A Thundertail is a massive reptilian creature with a tail that generates powerful electric shocks. It uses its tail both defensively and offensively."
+  },
+  {
+    "title": "How do Thundertails generate electricity?",
+    "answer": "Thundertails have specialized organs in their tails that can store and discharge electrical energy, similar to an electric eel."
+  },
+  {
+    "title": "What do Thundertails eat?",
+    "answer": "Thundertails are omnivores, eating a mix of plants, fruits, and small animals. Their electric abilities help them stun prey and defend against predators."
+  },
+  {
+    "title": "Where are Thundertails commonly found?",
+    "answer": "Thundertails can be found in dense rainforests and tropical jungles, where their electric powers are used to navigate stormy environments."
+  },
+  {
+    "title": "What is a Mirehound?",
+    "answer": "A Mirehound is a swamp-dwelling creature resembling a large, hound-like beast covered in thick mud and moss."
+  },
+  {
+    "title": "What are the unique abilities of Mirehounds?",
+    "answer": "Mirehounds can blend into swamp environments using their muddy coating, and they possess incredible tracking abilities, able to smell prey from miles away."
+  },
+  {
+    "title": "Do Mirehounds have any natural predators?",
+    "answer": "Mirehounds have very few natural predators due to their size and ability to blend into the swamp, but some larger creatures like swamp dragons pose a threat."
+  },
+  {
+    "title": "What is a Skyfury?",
+    "answer": "A Skyfury is a majestic, eagle-like creature with storm clouds trailing behind its wings. It can control wind and thunder as it flies."
+  },
+  {
+    "title": "What are the primary hunting tactics of Skyfuries?",
+    "answer": "Skyfuries hunt by diving at extreme speeds from the clouds and striking their prey with sharp talons. They also create gusts of wind to disorient their targets."
+  },
+  {
+    "title": "What is a Shardbeak?",
+    "answer": "A Shardbeak is a bird-like creature with a beak made of crystal. It can shatter its beak into sharp fragments and launch them as projectiles."
+  },
+  {
+    "title": "How do Shardbeaks regenerate their beaks?",
+    "answer": "Shardbeaks regrow their beaks using minerals found in the stones they peck at. The crystals slowly reform after being shattered."
+  },
+  {
+    "title": "Where do Shardbeaks build their nests?",
+    "answer": "Shardbeaks build their nests in high, rocky cliffs, using fragments of crystal and mineral to create durable homes."
+  },
+  {
+    "title": "What is a Glowserpent?",
+    "answer": "A Glowserpent is a luminescent snake-like creature that emits a soft glow. It can hypnotize prey with its shifting, radiant colors."
+  },
+  {
+    "title": "What do Glowserpents use their glowing ability for?",
+    "answer": "Glowserpents use their glowing ability to attract prey, as well as to communicate with other members of their species."
+  },
+  {
+    "title": "How long can a Glowserpent grow?",
+    "answer": "Glowserpents can grow up to 30 feet in length, and their glowing scales make them especially visible in dark environments like caves or dense forests."
+  },
+  {
+    "title": "What is a Rockbloom?",
+    "answer": "A Rockbloom is a plant-animal hybrid that resembles a large, flower-covered boulder. It feeds on sunlight and small insects that are drawn to its bright petals."
+  },
+  {
+    "title": "How does a Rockbloom defend itself?",
+    "answer": "Rockblooms can retract their petals and harden into an immovable stone form when threatened, making them nearly impossible to damage."
+  },
+  {
+    "title": "Where can Rockblooms be found?",
+    "answer": "Rockblooms are typically found in mountainous regions, often on rocky plateaus where they can absorb ample sunlight."
+  },
+  {
+    "title": "What is a Blazetusk?",
+    "answer": "A Blazetusk is a large, boar-like creature with tusks that are constantly aflame. It uses these fiery tusks to defend itself and mark its territory."
+  },
+  {
+    "title": "How do Blazetusks maintain the fire on their tusks?",
+    "answer": "Blazetusks have glands near their tusks that produce a flammable liquid, which ignites when they scrape their tusks against rocks or trees."
+  },
+  {
+    "title": "What do Blazetusks eat?",
+    "answer": "Blazetusks are omnivores, feeding on a diet of roots, plants, and small animals. They use their tusks to dig for food and fend off predators."
+  },
+  {
+    "title": "How large do Blazetusks grow?",
+    "answer": "Blazetusks can grow up to 10 feet long and weigh over 1,500 pounds. Their large size and fiery tusks make them formidable creatures."
+  }
+]
+    
+}
